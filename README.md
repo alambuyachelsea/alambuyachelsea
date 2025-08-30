@@ -13,6 +13,6 @@ Hey, I'm Chelsea. I'm a software dveloper currently finishing up my bachelor's d
 
 ### Ineterested in working with me?
 
-Check out my <a href="https://alambuyachelsea.com/">website</a> for a more in depth overview of my skills, projects and collaborations or <a href="assets/Chelsea Alambuya CV.pdf"> download my resume </a> for a summarized view.
+Check out my <a href="https://alambuyachelsea.com/">website</a> for a more in depth overview of my skills, projects and collaborations or <a href="assets/Chelsea_Alambuya_CV.pdf"> download my resume </a> for a summarized view.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=855cff&fontColor=001f3f&textBg=false&reversal=false&animation=twinkling&fontSize=43&section=footer" alt="footer"/>
