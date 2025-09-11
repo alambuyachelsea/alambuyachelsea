@@ -7,7 +7,7 @@ Hey, I'm Chelsea. I'm a software dveloper currently finishing up my bachelor's d
 
 ### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,elixir,dart,flutter,typescript,pytorch,sklearn,tensorflow,vercel,github,git,gitlab,mongodb,postgres,mysql,sqlite,js,nodejs,nginx,npm,express,docker,postman,gradle,html,css,androidstudio,next,notion,figma,arduino,raspberrypi,latex,matlab,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,elixir,dart,flutter,typescript,pytorch,sklearn,tensorflow,vercel,github,git,gitlab,mongodb,postgres,mysql,sqlite,js,nodejs,vite,nginx,npm,express,docker,postman,gradle,html,css,androidstudio,next,notion,figma,arduino,raspberrypi,latex,matlab,pycharm,vscode)](https://skillicons.dev)
 
 <!-- scratch to add -->
 
