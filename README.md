@@ -3,7 +3,7 @@
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=371652&text=Alambuya%20%20Chelsea&fontColor=f4f4ff&textBg=false&reversal=false&animation=twinkling&fontSize=43" alt="header"/> 
 
-Hey, I'm Chelsea. I'm a software dveloper currently finishing up my bachelor's degree in software technology from Linnaeus University. Feel free to peruse through my public repositories to see the stuff I've worked on.
+Hey, I'm Chelsea. I'm a software dveloper who just completed my bachelor's degree in software technology from Linnaeus University after my pivot from banking and finance. Feel free to peruse through my public repositories to see the stuff I've worked on.
 
 ### Main skills
 
